@@ -2,7 +2,7 @@ import json
 
 import requests
 from datetime import datetime
-#import pytz
+import pytz
 
 
 def get_beijing_time():
